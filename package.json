@@ -1,0 +1,14 @@
+{
+  "name": "odss.io.wamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odss/io.wamp.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "odss.io.api": "github:odss/io.api"
+  }
+}
